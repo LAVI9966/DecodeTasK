@@ -69,8 +69,8 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/divyanshpatidar85/Deqode-test.git
-cd Deqode-test
+git clone https://github.com/LAVI9966/DecodeTasK.git
+cd DecodeTasK
 ```
 
 2. **Azure Authentication**
